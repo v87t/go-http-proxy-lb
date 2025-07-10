@@ -1,4 +1,4 @@
-# HTTP Proxy & Load Balancer
+# (soon publish) HTTP Proxy & Load Balancer
 
 A high-performance HTTP proxy system with built-in load balancing. Written in Go, this system efficiently routes HTTP requests to multiple backend servers, ensuring high availability and scalability.
 
